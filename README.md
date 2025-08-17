@@ -1,4 +1,4 @@
-# Nginx Production-Ready Setup Project
+# Nginx multi websites Production-Ready Setup Project
 
 ## Project Overview
 This project implements a complete nginx setup with:
